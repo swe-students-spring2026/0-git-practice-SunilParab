@@ -1,2 +1,7 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+## Article Review
+
+### [A.I. Is Prompting an Evolution, Not Extinction, for Coders](https://www.nytimes.com/2025/02/20/business/ai-coding-software-engineers.html)
+
+This article is yet another entry in the debate on whether or not AI will replace human programmers. The general opinion of the article seems to be that AI programming tools will be a very big help to programmers, as their skills shift more to being creative than writing code. Overall the article views AI in a very positive light, though it does seem to gloss over the question of what happens to junior developers as AI takes over programming. The article mentions that it is too early to truely guage the effect of AI on the hiring on junior developers, and also talks about the existence of programs that focus on teaching students how to develop with AI tools. A common beginner trap for programmers in the modern day is to become too reliant on AI tools, leaving them unable to properly debug or understand their code, which leads to a lot of problems down the line, but hopefully these sort of courses can properly prepare new developers. Personally I believe the real focus on AI tools should be on how they affect junior developers, as they are the next wave of senior developers that will be expected to maintain and expand major systems, rather than its effect on senior programmers who only need it as a fancy autocomplete.
